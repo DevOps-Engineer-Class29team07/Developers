@@ -3,3 +3,4 @@
 #shell scripts
 print('Hello World')
 #python script
+print("this is a python script)
